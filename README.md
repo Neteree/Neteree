@@ -35,4 +35,4 @@ Aspiring full-stack developer with a passion for building interactive experience
 ### 📩 Get in Touch
 - ✉️ Email: [neteree@gmail.com](mailto:neteree@gmail.com)
 - 📍 Location: Auckland, NZ
-- 🔗 [Portfolio](#) | [LinkedIn](#)
+- 🔗 [Portfolio](https://66f100fa085bf4888ecb9c87--bejewelled-kitten-84da99.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/cameron-belcher/)
