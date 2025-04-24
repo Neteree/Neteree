@@ -11,23 +11,6 @@ Aspiring full-stack developer with a passion for building interactive experience
 -  Passionate about **creating interactive websites and games**
 -  Enthusiastic about **language learning and Korean culture**
 
-### 📌 Projects
-#### 🎮 **PortfolioSite** – [GitHub Repo](#)
-An interactive portfolio where users explore a digital world to learn about my projects.
-- Developed using **Lua** and the **Defold game engine**
-- Tweaked **JavaScript** and **CSS** for better browser compatibility
-
-#### 🏆 **KoEnSlayer** – [GitHub Repo](#)
-A language-learning game where users test their ability to translate English and Korean phrases.
-- Built with **React** for the frontend and **ASP.NET** for the backend
-- Features CRUD operations for managing translations
-
-#### 🖥️ **NodeWebServer** – [GitHub Repo](#)
-A robust **Node.js** web server with integrated validation, testing, and modular architecture.
-- Utilized **Express**, **Joi**, and **Celebrate** for data integrity
-- Implemented **Jest** and **Supertest** for reliable testing
-- Designed with the **repository pattern** for future scalability
-
 ### 🎓 Education
 - **Professional AI-Powered Advanced Full Stack Developer (Micro-Credential)** – Mission Ready HQ (2025)
 - **AI-Powered Advanced Full Stack Developer (Micro-Credential)** – Mission Ready HQ (2025)
